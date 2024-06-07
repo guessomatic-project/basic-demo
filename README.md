@@ -1,2 +1,3 @@
 # basic-demo
-my first github repo
+my first git repository
+author-aryaman dev kumar
